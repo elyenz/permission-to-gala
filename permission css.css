@@ -1,0 +1,92 @@
+body, html {
+	background-color: antiquewhite;
+}
+
+h1 {
+	text-align: center;
+	font-family: "Space Mono", monospace;
+}
+
+h5 {
+	font-family: Muli, sans-serif;
+	font-size: 16px;
+	text-align: center;
+	
+}
+
+h2 {
+	text-align: center;
+	font-family: "Space Mono", monospace;
+}
+
+
+.when {
+	border-style: solid;
+	background-color: lightred;
+	width: 200px;
+	height: 150px;
+	position: absolute;
+	background-color: crimson;
+	border-color: crimson;
+	left: 600px;
+}
+
+.where {
+	border-style: solid;
+	background-color: lightred;
+	width: 200px;
+	height: 150px;
+	background-color: darkorange;
+	border-color: darkorange;
+	margin: auto;
+}
+
+.how {
+	border-style: solid;
+	background-color: lightred;
+	width: 200px;
+	height: 150px;
+	position: absolute;
+	background-color: lemonchiffon;
+	border-color: lemonchiffon;
+	right: 600px;
+	top: 80px;
+}
+
+.what {
+	border-style: solid;
+	background-color: lightred;
+	width: 200px;
+	height: 150px;
+	position: absolute;
+	background-color: mediumspringgreen;
+	border-color: mediumspringgreen;
+	left:720px;
+	top: 275px;
+}
+
+
+.why {
+	border-style: solid;
+	background-color: lightred;
+	width: 200px;
+	height: 150px;
+	position: absolute;
+	background-color: paleturquoise;
+	border-color: paleturquoise;
+	right: 720px;
+	top: 275px;
+}
+
+.pls {
+	border-style: solid;
+	background-color: rebeccapurple;
+	border-color: rebeccapurple;
+	width: 500px;
+	height: 300px;
+	position: absolute;
+	left: 700px;
+	top: 500px;
+	
+}
+
